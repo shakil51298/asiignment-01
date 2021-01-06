@@ -1,0 +1,109 @@
+h1{
+    font-family: 'Staatliches', cursive;
+    font-size: 30px;
+}
+h1 .color{
+    color: orangered;
+}
+h2{
+    font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Staatliches', cursive;
+}
+p{
+    font-size: 18px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    color: dimgray;
+}
+.half-width a{
+    text-decoration: none;
+    padding: 14px 16px;
+    background-image: linear-gradient(50deg,rgba(236, 84, 104, 0.849),rgb(212, 112, 53));
+    border-radius: 5px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main-section{
+    margin-top: 5%;
+}
+section{
+    height: 400px;
+    
+}
+.half-width{
+    width:40%;
+    margin-left: 5%;
+    float: left;
+}
+.half-width img{
+    width: 100%;
+}
+.last-work{
+    margin-top:15%;
+    text-align: center;
+    margin-bottom: 5%;
+}
+.last-work h1{
+    margin-bottom:5% ;
+}
+.last-work a{
+   color: dodgerblue;
+   font-weight: 700;
+   text-decoration: none;
+}
+.card{
+    width: 30%;
+    float: left;
+    margin-left: 2.5%;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+    height: auto;
+}
+.card img{
+    width: 100%;
+    height: 200px;
+}
+.last-wor .card{
+    height: 200px;
+}
+.work-inq{
+    background:url("shapes/work-inqu.png");
+    background-size: 700px 150px;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    margin-top: 10%;
+    margin-bottom: -10%;
+}
+.work-inq .text{
+    position: absolute;
+    top:160px;
+    left: 300px;
+    color: white;
+}
+.work-inq .btn{
+    position: absolute;
+    top: 195px;
+    left: 820px;
+}
+.work-inq a{
+    text-decoration: none;
+    padding: 14px 16px;
+    background-image:linear-gradient(orange,red) ;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+footer{
+    text-align: center;
+    margin-top: 20%;
+}
+.icon{
+    display: inline-block;
+    width: 25px;
+}
+.icon img{
+    width: 100%;
+}
