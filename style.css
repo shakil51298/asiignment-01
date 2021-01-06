@@ -1,20 +1,23 @@
+body{
+    color: rgb(11, 44, 75);
+}
 h1{
     font-family: 'Staatliches', cursive;
-    font-size: 30px;
+    font-size:45px;
 }
 h1 .color{
     color: orangered;
 }
 h2{
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Nanum Gothic', sans-serif;
+}
 font-family: 'Raleway', sans-serif;
 font-family: 'Staatliches', cursive;
 }
 p{
-    font-size: 18px;
-    font-family: 'Open Sans Condensed', sans-serif;
-    font-family: 'Raleway', sans-serif;
-    color: dimgray;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 20px;
 }
 .half-width a{
     text-decoration: none;
@@ -79,7 +82,7 @@ section{
 }
 .work-inq .text{
     position: absolute;
-    top:160px;
+    top:130px;
     left: 300px;
     color: white;
 }
